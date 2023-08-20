@@ -42,7 +42,7 @@ class Shape
        case Green:  cout << "green, ";
                     break;                                            
       }
-      cout << setArea() << endl;
+      cout << "area " << setArea() << endl;
       
      }
 
